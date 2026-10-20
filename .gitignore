@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+tasks.db
+app.log*
+.pytest_cache/

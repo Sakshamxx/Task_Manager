@@ -1,0 +1,24 @@
+# LLM integration
+langchain
+langchain-mistralai
+
+# MCP client and server integration
+langchain-mcp-adapters
+mcp
+langgraph
+
+# User interface
+streamlit
+
+# Notebook environment
+jupyterlab
+ipykernel
+
+# Environment variables
+python-dotenv
+
+# Data handling
+pandas
+
+# Automated tests (tests/)
+pytest
